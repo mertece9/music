@@ -173,10 +173,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="📝 Destek",
-                            url=f"https://t.me/Starbotdestek"),
+                            url=f"https://t.me/tMertTt"),
                     InlineKeyboardButton(
                             text="📍 Kanal",
-                            url=f"https://t.me/StarBotKanal"),                   
+                            url=f"https://t.me/sohbetmuhabbetw"),                   
                ],
             ]
         )
@@ -214,10 +214,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="📝 Destek",
-                            url=f"https://t.me/Starbotdestek"),
+                            url=f"https://t.me/tMertTt"),
                     InlineKeyboardButton(
                             text="📍 Kanal",
-                            url=f"https://t.me/StarBotKanal"),                   
+                            url=f"https://t.me/sohbetmuhabbetw"),                   
                ],
             ]
         )
@@ -232,10 +232,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="📝 Destek",
-                            url=f"https://t.me/Starbotdestek"),
+                            url=f"https://t.me/tMertTt"),
                     InlineKeyboardButton(
                             text="📍 Kanal",
-                            url=f"https://t.me/StarBotKanal"),                   
+                            url=f"https://t.me/sohbetmuhabbetw"),                   
                ],
             ]
         )
@@ -288,10 +288,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="📝 Destek",
-                            url=f"https://t.me/Starbotdestek"),
+                            url=f"https://t.me/tMertTt"),
                     InlineKeyboardButton(
                             text="📍 Kanal",
-                            url=f"https://t.me/StarBotKanal"),                   
+                            url=f"https://t.me/sohbetmuhabbetw"),                   
                ],
             ]
         )
