@@ -19,11 +19,11 @@ def start_(bot, message):
                     InlineKeyboardButton(text="🎉 Beni Gruba Ekleyin 🎉", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
-                    InlineKeyboardButton(text="📝 Destek ", url=f"https://t.me/sohbetmuhabbetw"),
+                    InlineKeyboardButton(text="📝 Destek ", url=f"https://t.me/tMertTt"),
                     InlineKeyboardButton(text="🇹🇷 Kanal ", url="https://t.me/sohbetmuhabbetw"),
                 ],                
                 [                    
-                    InlineKeyboardButton(text="📚 Tüm Komutlar ", url="https://t.me/sohbetmuhabbetw"),
+                    InlineKeyboardButton(text="📚 Tüm Komutlar ", url="https://t.me/ProTubeSupport/2"),
                 ],
                 
             ]
